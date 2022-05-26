@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "969813933404",
+    "project_id": "cuanfinder-5dc37",
+    "storage_bucket": "cuanfinder-5dc37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969813933404:android:3b9e43da82aa9311eed599",
+        "android_client_info": {
+          "package_name": "com.example.cuanfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969813933404-foe0bdmdb09b654mnm0351e4jdb5e8nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cuanfinder",
+            "certificate_hash": "c6ceefc42e4803e0d57d30bb817442ff150ab649"
+          }
+        },
+        {
+          "client_id": "969813933404-bu5h19ud9ajeegf0dvdp5q7vjr013p3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqR8zoBTqgLzhEN11ng-wZMrVpIM4eJeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969813933404-bu5h19ud9ajeegf0dvdp5q7vjr013p3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
